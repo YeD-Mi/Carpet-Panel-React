@@ -1,0 +1,34 @@
+{
+  "carpets": [
+    {
+      "id": "1",
+      "marka": "Gordios Halı",
+      "fiyat": "845",
+      "desen": "Sedef Serisi"
+    },
+    {
+      "id": "2",
+      "marka": "Empera Halı",
+      "desen": "Soho House Serisi",
+      "fiyat": "750"
+    },
+    {
+      "id": "3",
+      "marka": "Royal Halı",
+      "desen": "Lootus Serisi",
+      "fiyat": "600"
+    },
+    {
+      "id": "4",
+      "marka": "Pierre Cardin Halı",
+      "desen": "Monet Serisi",
+      "fiyat": "900"
+    },
+    {
+      "id": "5",
+      "marka": "Atlas Halı",
+      "desen": "Veranda Serisi",
+      "fiyat": "800"
+    }
+  ]
+}
